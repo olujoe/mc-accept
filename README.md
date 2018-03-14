@@ -1,2 +1,2 @@
-# eng-bsd-big-ted-newshub-moscollector-acceptance
-bigTed newshub Acceptance tests
+# mc-accept
+mc accept tests
