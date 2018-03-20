@@ -1,0 +1,63 @@
+add_200:         {
+          "modified": "2017-11-14T12:10:54.503Z",
+          "regionId": "string;",
+          "roAir": "string",
+          "roEdDur": "string",
+          "roEdStart": "2017-11-14T12:10:54.503Z",
+          "roId": "string",
+          "roSlug": "string",
+          "stories": [
+            {
+              "captions": [
+                {
+                  "duration": 0,
+                  "modified": "2017-11-14T12:10:54.503Z",
+                  "source": "string",
+                  "startTime": 0,
+                  "storyID": "string",
+                  "type": "string",
+                  "values": {}
+                }
+              ],
+              "clips": [
+                {
+                  "clipId": "string",
+                  "clipType": "string",
+                  "duration": 0,
+                  "inWords": "string",
+                  "itemSlug": "string",
+                  "modified": "2017-11-14T12:10:54.503Z",
+                  "mosAbstract": "string",
+                  "mosID": "string",
+                  "outWords": "string",
+                  "startTime": 0,
+                  "storyID": "string"
+                }
+              ],
+              "mediaDuration": 0,
+              "modified": "2017-11-14T12:10:54.503Z",
+              "roID": "string",
+              "script": "string",
+              "scriptDuration": 0,
+              "storyBody": [
+                "string"
+              ],
+              "storyID": "string",
+              "storyNum": "string",
+              "storySlug": "string",
+              "totalDuration": 0
+            }
+          ]
+        }
+
+
+add_400:        {
+          "modified": "2017-11-14T12:10:54.503Z",
+          "regionId": "string;",
+          "roAir": "string",
+          "roEdDur": "string",
+          "roEdStart": "2017-11-14T12:10:54.503Z",
+          "roId": "string",
+          "roSlug": "string",
+          "stories": []
+        }
